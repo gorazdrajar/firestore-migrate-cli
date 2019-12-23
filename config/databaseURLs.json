@@ -1,0 +1,8 @@
+{
+  "your-firebase-project-id": {
+    "databaseURL": "https://something-like-your-firestore-project.firebaseio.com"
+  },
+  "the-other-firebase-project-id": {
+    "databaseURL": "https://another-firestore-project.firebaseio.com"
+  }
+}

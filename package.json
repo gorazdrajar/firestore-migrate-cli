@@ -1,0 +1,13 @@
+{
+  "name": "firestore-migrate-cli",
+  "version": "1.0.0",
+  "description": "Firestore Migrate CLI",
+  "main": "src/index.js",
+  "author": "Gorazd Rajar",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "firebase-admin": "^8.5.0",
+    "readline-sync": "^1.4.10"
+  }
+}
